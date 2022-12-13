@@ -11,9 +11,9 @@ This project seeks to create a convolutional neural network capable of identifyi
 
 3.	`seitz_final_submission.ipynb`: contains the training data and results for only the final model with the most favored hyperparameter values.
 
-All four of the models and their histories are available in the models and model_history directories, respectively. The datasets directory contains CSVs for all the used and created datasets.
+For now, only model histories are available in the `model_history` directory. The datasets directory contains CSVs for all the used and created datasets.
 
-Only the 1,500 images used for training are included in the images.zip file, but the full dataset is available here: https://nihcc.app.box.com/v/ChestXray-NIHCC
+No images are included here, but the full dataset is available here: https://nihcc.app.box.com/v/ChestXray-NIHCC
 
 
 *Special thanks to the NIH and following team for the data. </br>
